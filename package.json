@@ -1,0 +1,12 @@
+{
+  "name": "hanbitco-nodejs",
+  "version": "0.0.0",
+  "description": "hanbitcoNodejs",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
